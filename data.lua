@@ -1,0 +1,7 @@
+require("prototypes.item.insta-armor")
+require("prototypes.equipment.equipment-grid")
+require("prototypes.recipe.insta-armor")
+require("prototypes.item.equipment")
+require("prototypes.equipment.equipment")
+require("prototypes.recipe.equipment")
+require("prototypes.technology.insta-armor")

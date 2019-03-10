@@ -1,0 +1,11 @@
+{
+    "name": "InstaArmor",
+    "version": "0.1.0",
+    "title": "InstaArmor",
+    "author": "James Hall",
+    "contact": "",
+    "homepage": "https://github.com/Jamezhall/InstaArmor",
+    "factorio_version": "0.17",
+    "dependencies": ["base >= 0.17"],
+    "description": "Mod to create armour quick and not need high research or mats."
+}
